@@ -1,0 +1,130 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #ffcccc;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #e60073;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li strong {
+    color: #e60073;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+#contact p {
+    font-weight: bold;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anjali's Home Daycare</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Anjali’s Home Daycare!</h1>
+    </header>
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I moved to Canada with my family in search of better opportunities and found my true calling in child care. With a background in customer service and a genuine love for children, I understand the importance of providing a reliable and trustworthy care option for parents.</p>
+    </section>
+    <section id="why-choose-us">
+        <h2>Why Choose Anjali’s Home Daycare?</h2>
+        <ul>
+            <li><strong>Experienced and Caring:</strong> With a passion for working with children, I provide a warm and friendly atmosphere where every child feels at home.</li>
+            <li><strong>Safe and Secure:</strong> My home is fully child-proofed, ensuring a safe play and learning environment for your little ones.</li>
+            <li><strong>Small Group Setting:</strong> By caring for a maximum of 5 children, I ensure that each child receives the individual attention they deserve.</li>
+            <li><strong>Flexible and Affordable:</strong> I offer flexible hours and competitive rates to meet the needs of busy parents.</li>
+            <li><strong>Engaging Activities:</strong> From creative arts and crafts to interactive playtime and educational activities, your child will enjoy a variety of engaging experiences.</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>I would love to meet you and your child! Please feel free to reach out for more information or to schedule a visit. Together, we can create a positive and enriching experience for your child.</p>
+        <p><strong>Phone:</strong> [Your Phone Number]</p>
+        <p><strong>Email:</strong> [Your Email Address]</p>
+        <p><strong>Location:</strong> [Your City, Province]</p>
+    </section>
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #ffcccc;
+    color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1, h2 {
+    color: #e60073;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li strong {
+    color: #e60073;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+#contact p {
+    font-weight: bold;
+}
